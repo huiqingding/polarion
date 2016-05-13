@@ -1,1 +1,0 @@
-# polarion/impt_acceptance
